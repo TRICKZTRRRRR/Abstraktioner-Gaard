@@ -8,5 +8,9 @@ namespace Abstraktioner.Model
 {
     internal class Dog
     {
+        #region Variables
+        private int _tailLength;
+        private bool _hasDoubleCoat;
+        #endregion
     }
 }

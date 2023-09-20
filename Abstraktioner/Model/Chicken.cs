@@ -8,5 +8,8 @@ namespace Abstraktioner.Model
 {
     internal class Chicken
     {
+        #region Variables
+        private string _eggColor;
+        #endregion
     }
 }

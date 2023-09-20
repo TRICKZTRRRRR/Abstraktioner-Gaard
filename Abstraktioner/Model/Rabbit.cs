@@ -8,5 +8,8 @@ namespace Abstraktioner.Model
 {
     internal class Rabbit
     {
+        #region Variables
+        private int _blinkPerMin;
+        #endregion
     }
 }

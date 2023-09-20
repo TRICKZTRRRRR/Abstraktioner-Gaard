@@ -47,7 +47,7 @@
     <Compile Include="Conntroller\Controller.cs" />
     <Compile Include="Conntroller\DogController.cs" />
     <Compile Include="Conntroller\RabbitController.cs" />
-    <Compile Include="Model\Animal.cs" />
+    <Compile Include="Model\Animals.cs" />
     <Compile Include="Model\AnimalList.cs" />
     <Compile Include="Model\Chicken.cs" />
     <Compile Include="Model\Dog.cs" />

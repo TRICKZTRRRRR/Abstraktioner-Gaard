@@ -8,5 +8,13 @@ namespace Abstraktioner.Conntroller
 {
     internal class Controller
     {
+        public void MainController()
+        {
+        }
+
+        public void InsertData()
+        {
+
+        }
     }
 }
