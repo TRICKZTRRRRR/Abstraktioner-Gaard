@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraktioner.Model
 {
-    internal class Animal
+    internal class Dog
     {
-        private bool _canFly;
-        private bool _hasFourLegs;
     }
 }
