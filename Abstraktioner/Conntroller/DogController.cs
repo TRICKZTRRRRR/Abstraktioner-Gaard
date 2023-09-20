@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstraktioner.Model
+namespace Abstraktioner.Conntroller
 {
-    internal class Animal
+    internal class DogController
     {
-        private 
     }
 }

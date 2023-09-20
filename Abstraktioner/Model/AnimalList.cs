@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraktioner.Model
 {
-    internal class Animal
+    internal class AnimalList
     {
-        private 
     }
 }
